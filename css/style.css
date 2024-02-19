@@ -44,5 +44,6 @@ body {
     }
     .mybtn {
         font-size: 22px;
+        border: none;
     }
 }
