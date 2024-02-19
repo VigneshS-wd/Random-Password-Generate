@@ -25,6 +25,7 @@ body {
     font-size: 25px;
     font-weight: 600;
     background: linear-gradient(to bottom right,#f75442,#f7b72d);
+    border: none;
 }
 .pass {
     font-size: 20px;
